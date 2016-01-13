@@ -1,0 +1,5 @@
+id: 1 login: sado password: sadi meno: adam priezvisko: lanza vek: 13 email: sadimirko
+id: 2 login: peter password: sangala meno: sang priezvisko: lan vek: 23 email: fgas
+id: 3 login: adamko password: sangalko meno: Laci priezvisko: Lacias vek: 12 email: tojejedno@sfjodsf
+id: 4 login: martin password: 123 meno: martin priezvisko: mravec vek: 54 email: martin@mravec.com
+id: 5 login: erik password: erik meno: erik priezvisko: klucka vek: 45 email: erik@klucka.sk
